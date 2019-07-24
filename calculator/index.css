@@ -1,0 +1,78 @@
+body{
+  background-color: #fbce07;
+}
+.form-cal{
+ text-align: center;
+ margin-top: 100px;
+ background-color: #fff;
+width: 350px;
+position: absolute;
+left: 360px;
+padding: 20px;
+border-radius: 17px;
+}
+.form-one{
+  width: 50px;
+  margin-left:15px;
+}
+#p-tag{
+  background-color: #fbce07;
+  width: 150px;
+  height: 22px;
+  position: relative;
+  left: 100px;
+  padding: 7px;
+  margin-top: 11px;
+  border-radius: 25px;
+
+}
+#result{
+  text-align: center;
+}
+#operators{
+    padding: 20px;
+  
+}
+.submit{
+  border-radius: 10px;
+    border-style: hidden;
+    padding: 10px;
+}
+#a{
+  width: 80px;
+}
+#b{
+  width: 80px
+}
+.btn-one{
+  width: 45px;
+  border-radius: 6px;
+  border-style: hidden;
+  background-color: black;
+  color: #fff;
+  padding: 6px;
+}
+.btn-two{
+  width: 45px;
+  border-radius: 6px;
+  border-style: hidden;
+  background-color: black;
+  color: #fff;
+  padding: 6px;
+}
+.btn-three{
+  width: 57px;
+  border-radius: 6px;
+  border-style: hidden;
+  background-color: black;
+  color: #fff;
+  padding: 6px;
+}
+.btn-four{
+  width: 57px;
+  border-radius: 6px;
+  border-style: hidden;
+  background-color: black;
+  color: #fff;
+  padding: 6px;
+}
